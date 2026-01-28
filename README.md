@@ -3,64 +3,56 @@
 Personal Organizer is a C++ Windows Forms application designed to help users manage their personal tasks and information efficiently. It provides a user-friendly interface to add, edit, and organize personal records, making daily task management simpler and more structured.
 
 ## Features
+<ul>
+<li>Task Management: Add, edit, and delete personal tasks.</li>
 
-Task Management: Add, edit, and delete personal tasks.
--
-Data Storage: Save your records securely within the application.
+<li>Data Storage: Save your records securely within the application.</li>
 
-User-Friendly Interface: Simple graphical interface built with C++ WinForms.
+<li>User-Friendly Interface: Simple graphical interface built with C++ WinForms.</li>
 
-Lightweight Desktop Application: Runs locally on Windows without external dependencies.
+<li>Lightweight Desktop Application: Runs locally on Windows without external dependencies.</li>
+</ul>
 
-Screenshots
+## Installation
+<ul>
+<li>Clone the repository:</li>
 
-Add screenshots of your application here for better visualization.
+<i>git clone https://github.com/NobodydeBunny/personal-organizer.git</i>
 
+<li>Open the solution in Visual Studio.</li>
 
+<li>Build and run the project.</li>
+</ul>
+## Usage
+<ul>
+<li>Launch the application.</li>
 
+<li>Use the interface to add new tasks or personal entries.</li>
 
-Installation
+<li>Edit or remove entries as needed.</li>
 
-Clone the repository:
+<li>Your data is stored locally and can be backed up manually.</li>
 
-git clone https://github.com/NobodydeBunny/personal-organizer.git
+## Requirements
 
+<li>Windows OS</li>
 
-Open the solution in Visual Studio.
+<li>Visual Studio (with C++ and WinForms support)</li>
 
-Build and run the project.
+<li>.NET Framework compatible with WinForms</li>
 
-Usage
+## Contributing
 
-Launch the application.
+<li>Contributions are welcome! Feel free to:</li>
 
-Use the interface to add new tasks or personal entries.
+<li>Report bugs</li>
 
-Edit or remove entries as needed.
+<li>Suggest new features</li>
 
-Your data is stored locally and can be backed up manually.
+<li>Submit pull requests</li>
 
-Requirements
+<li>Please make sure your contributions adhere to the current code style.</li>
 
-Windows OS
+## License
 
-Visual Studio (with C++ and WinForms support)
-
-.NET Framework compatible with WinForms
-
-Contributing
-
-Contributions are welcome! Feel free to:
-
-Report bugs
-
-Suggest new features
-
-Submit pull requests
-
-Please make sure your contributions adhere to the current code style.
-
-License
-
-This project is licensed under the MIT License. See the LICENSE
- file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
