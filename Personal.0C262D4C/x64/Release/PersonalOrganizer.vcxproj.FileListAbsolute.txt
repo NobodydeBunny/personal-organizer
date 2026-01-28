@@ -1,0 +1,4 @@
+E:\Programming\MiniProject\Personal_Organizer\PersonalOrganizer\Personal.0C262D4C\x64\Release\PersonalOrganizer.vcxproj.AssemblyReference.cache
+E:\Programming\MiniProject\Personal_Organizer\PersonalOrganizer\Personal.0C262D4C\x64\Release\PersonalOrganizer.myform.resources
+E:\Programming\MiniProject\Personal_Organizer\PersonalOrganizer\Personal.0C262D4C\x64\Release\PersonalOrganizer.Org_app.resources
+E:\Programming\MiniProject\Personal_Organizer\PersonalOrganizer\Personal.0C262D4C\x64\Release\PersonalOrganizer.vcxproj.GenerateResource.cache

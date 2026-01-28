@@ -1,0 +1,50 @@
+﻿  fileHandle.cpp
+  MyForm.cpp
+E:\Programming\MiniProject\Personal_Organizer\PersonalOrganizer\Org_app.h(391,59): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  (compiling source file 'MyForm.cpp')
+  
+E:\Programming\MiniProject\Personal_Organizer\PersonalOrganizer\Org_app.h(426,60): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  (compiling source file 'MyForm.cpp')
+  
+E:\Programming\MiniProject\Personal_Organizer\PersonalOrganizer\Org_app.h(461,60): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  (compiling source file 'MyForm.cpp')
+  
+E:\Programming\MiniProject\Personal_Organizer\PersonalOrganizer\Org_app.h(496,60): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  (compiling source file 'MyForm.cpp')
+  
+E:\Programming\MiniProject\Personal_Organizer\PersonalOrganizer\Org_app.h(531,60): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  (compiling source file 'MyForm.cpp')
+  
+E:\Programming\MiniProject\Personal_Organizer\PersonalOrganizer\Org_app.h(567,60): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  (compiling source file 'MyForm.cpp')
+  
+E:\Programming\MiniProject\Personal_Organizer\PersonalOrganizer\Org_app.h(603,60): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  (compiling source file 'MyForm.cpp')
+  
+E:\Programming\MiniProject\Personal_Organizer\PersonalOrganizer\MyForm.cpp(6,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Org_app.cpp
+E:\Programming\MiniProject\Personal_Organizer\PersonalOrganizer\Org_app.h(391,59): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  (compiling source file 'Org_app.cpp')
+  
+E:\Programming\MiniProject\Personal_Organizer\PersonalOrganizer\Org_app.h(426,60): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  (compiling source file 'Org_app.cpp')
+  
+E:\Programming\MiniProject\Personal_Organizer\PersonalOrganizer\Org_app.h(461,60): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  (compiling source file 'Org_app.cpp')
+  
+E:\Programming\MiniProject\Personal_Organizer\PersonalOrganizer\Org_app.h(496,60): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  (compiling source file 'Org_app.cpp')
+  
+E:\Programming\MiniProject\Personal_Organizer\PersonalOrganizer\Org_app.h(531,60): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  (compiling source file 'Org_app.cpp')
+  
+E:\Programming\MiniProject\Personal_Organizer\PersonalOrganizer\Org_app.h(567,60): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  (compiling source file 'Org_app.cpp')
+  
+E:\Programming\MiniProject\Personal_Organizer\PersonalOrganizer\Org_app.h(603,60): warning C4965: implicit box of integer 0; use nullptr or explicit cast
+  (compiling source file 'Org_app.cpp')
+  
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  fileHandle.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+LINK : fatal error LNK1561: entry point must be defined
