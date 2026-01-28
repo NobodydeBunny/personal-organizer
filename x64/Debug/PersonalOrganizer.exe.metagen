@@ -1,0 +1,50 @@
+  PersonalOrganizer.myform.resources - Embedded, ContainedInManifestFile, 
+  PersonalOrganizer.Org_app.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly PersonalOrganizer, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class FileHandler: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    RetrieveData(String, String): PrivateScope, Public, Static, HideBySig
+Class PersonalOrganizer.Org_app: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    getdata(String): PrivateScope, Public, HideBySig
+    loaddataGrid3(): PrivateScope, Public, HideBySig
+    LoadDataFromFile(): PrivateScope, Public, HideBySig
+    calculateTotal(): PrivateScope, Public, HideBySig
+    ShowLable(): PrivateScope, Public, HideBySig
+    SetLimitText(String, Label): PrivateScope, Public, HideBySig
+    showLimit(): PrivateScope, Public, HideBySig
+    showUsed(): PrivateScope, Public, HideBySig
+    budgetWarn(): PrivateScope, Public, HideBySig
+    ReportChart(): PrivateScope, Public, HideBySig
+    showChartFood(): PrivateScope, Public, HideBySig
+    showChartEnt(): PrivateScope, Public, HideBySig
+    showChartTrv(): PrivateScope, Public, HideBySig
+    showChartClo(): PrivateScope, Public, HideBySig
+    showChartEdu(): PrivateScope, Public, HideBySig
+    showChartUni(): PrivateScope, Public, HideBySig
+    showChartOther(): PrivateScope, Public, HideBySig
+    LoadDataAcedemic(): PrivateScope, Public, HideBySig
+    LoadDataDeadline(): PrivateScope, Public, HideBySig
+    LoadDataDeadlineAlert(): PrivateScope, Public, HideBySig
+Class PersonalOrganizer.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName

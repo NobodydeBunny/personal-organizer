@@ -1,0 +1,20 @@
+username : shihan
+TotalInc : 25000
+TotalExp : 2500
+TotalSavd : 22500
+FoodLimit : 2500
+FoodUsed : 2500
+EntertainmentLimit : 0
+EntertainmentUsed : 0
+TravelLimit : 0
+TravelUsed : 0
+ClothLimit : 0
+ClothUsed : 0
+EduLimit : 0
+EduUsed : 0
+UniLimit : 0
+UniUsed : 0
+OtherLimit : 0
+OtherUsed : 0
+INCOME : job : 07-Feb-25 : 25000
+EXPENSE : Food : 07-Feb-25 : 2500 : pizza
